@@ -1,4 +1,4 @@
-module github.com/vadim2422/protos
+module github.com/Vadim2422/protos
 
 go 1.21
 
